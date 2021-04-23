@@ -1,6 +1,6 @@
 写的一些简单的爬虫
 
-### 1、pubmed 关键词搜索及链接爬取
+### 1、pubmed爬虫 关键词搜索及链接爬取
 [get_pubmed.py](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_pubmed.py)
 
 依赖库：requests beautifulsoup4
