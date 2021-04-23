@@ -1,11 +1,11 @@
 写的一些简单的爬虫
 
 ### 1、pubmed爬虫 关键词搜索及链接爬取
-[get_pubmed.py](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_pubmed.py)
+[get_pubmed.py](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_pubmed.py) *右键另存为
 
 依赖库：requests beautifulsoup4
 
-输入：搜索关键词（同目录下list.txt读入）
+输入：搜索关键词（同目录下list.txt读入） 默认搜索五页，可通过代码修改
 
 输出：搜索结果链接与文章名
 
@@ -13,7 +13,7 @@
 
 ### 2、 简单爬取淘宝商品链接
 
-[get_taobao](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_taobao.py)
+[get_taobao](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_taobao.py) *右键另存为
 
 依赖库：requests re xlwt
 
@@ -27,7 +27,7 @@
 
 ### 3、 简单爬取1688商品数据
 
-[get_1688](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_1688.py)
+[get_1688](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_1688.py) *右键另存为
 
 依赖库: urllib xlwt beautifulsoup4 requests
 
@@ -41,7 +41,7 @@
 
 ### 4、简单爬取book118文档，图片形式保存
 
-[get_book118](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_book118.py)
+[get_book118](https://raw.githubusercontent.com/wenz1xv/easy_crawler/main/get_book118.py)  *右键另存为
 
 详见[简书链接](https://www.jianshu.com/p/8012edb46153)
 
